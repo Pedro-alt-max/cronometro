@@ -82,3 +82,5 @@ function formatTime(time) {
 function formMilliseconds(time) {
   return time < 100 ? `${time}`.padStart(3,"0") : time;
 }
+
+// Um comentário qualquer!
